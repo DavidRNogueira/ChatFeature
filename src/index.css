@@ -1,0 +1,26 @@
+h1 {
+  font-family: 'Poiret One', cursive;
+  font-size: 4rem;
+  text-align: center
+}
+
+.eachmessage{
+  
+  width:60%;
+  font-family: 'Abel', sans-serif;
+  display:block;
+  border-style: solid;
+  border-width:1px;
+  border-color: gray;
+  padding: 10px;
+  margin: 5px auto 5px auto;
+  background-color: lightgray;
+}
+
+.form{
+  display:block;
+  width:60%;
+
+  margin: 5px auto 5px auto;
+
+}
